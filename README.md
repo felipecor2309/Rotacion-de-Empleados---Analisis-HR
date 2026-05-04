@@ -27,5 +27,3 @@ Los datos fueron limpiados con Python eliminando columnas sin valor analítico, 
 ## Dashboard
 <img width="1278" height="798" alt="image" src="https://github.com/user-attachments/assets/978edb56-3be4-4641-a2ef-5c3868cecdf3" />
 Archivo .pbix disponible en este repositorio.
-<img width="1278" height="798" alt="image" src="https://github.com/user-attachments/assets/978edb56-3be4-4641-a2ef-5c3868cecdf3" />
-Archivo .pbix disponible en este repositorio.
