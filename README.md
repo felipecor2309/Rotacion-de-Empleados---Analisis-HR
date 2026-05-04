@@ -25,5 +25,5 @@ Los datos fueron limpiados con Python eliminando columnas sin valor analítico, 
 5. El perfil del empleado que más rota es: 34 años de edad, salario mensual de $4.787 y 5 años en la empresa en promedio, significativamente por debajo de los empleados que se quedan.
 
 ## Dashboard
-<img width="1278" height="798" alt="image" src="https://github.com/user-attachments/assets/978edb56-3be4-4641-a2ef-5c3868cecdf3" />
+<img width="1389" height="868" alt="image" src="https://github.com/user-attachments/assets/e15fee48-93b1-4a41-9c43-2b531c329f6d" />
 Archivo .pbix disponible en este repositorio.
